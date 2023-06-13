@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.study_gradle_with_java.demo;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
